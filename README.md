@@ -6,8 +6,6 @@ This is a simple script to setup a service desk tool with Google Sheets.
 
 Simply follow this step and you will be up and running in minutes. 
 
-Please feel free to watch the video at - 
-
 ## Steps to setup this script
 
 Step 1: Create a new spreadsheet. Alternatively you can also take a copy of the spreadsheet from the blog.
